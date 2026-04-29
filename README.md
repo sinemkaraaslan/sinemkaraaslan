@@ -34,7 +34,6 @@ The parts I enjoy most are figuring out what's worth shipping, what to track, an
 
 **Frontend**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -61,7 +60,7 @@ The parts I enjoy most are figuring out what's worth shipping, what to track, an
 - **PDF Chatbot** — Small RAG project; built it to actually understand embeddings instead of just calling OpenAI's API
 - **Music Genre Classifier** — CNN trained on mel-spectrograms to classify tracks into 10 genres. First time I played with transfer learning + data augmentation
 - **Glimpse** — Face recognition with dlib & ResNet
-- **NASA Space Dashboard** — React app pulling NASA APIs. Ended up doing way more frontend than I planned
+- **NASA Space Dashboard** — Dashboard pulling data from NASA APIs. When the Mars Rover endpoint broke, I redesigned that section as a static info hub rather than ship something broken.
 - **ARQ Simulator** — Stop-and-Wait vs Go-Back-N over an AWGN channel with CRC-32 error detection (C++)
 - **Spotify-DB** — Relational schema design inspired by Spotify
 
