@@ -2,9 +2,8 @@
 
 <p align="center">⋆ ˚ ⋅ ✦ ⋅ ˚ ⋆</p>
 
-CE student at Istanbul Arel University (GPA 3.79/4.00), spending this semester as Product Owner on a class project — a peer support app for students.
-
-I'm mostly into **AI** and **product** these days — especially building things people actually use. The parts I enjoy most are figuring out what's worth shipping, what to track, and how to tell if it actually worked.
+CE student at Istanbul Arel University (GPA 3.79/4.00), mostly into AI and product these days — especially building things people actually use.
+The parts I enjoy most are figuring out what's worth shipping, what to track, and how to tell if it actually worked.
 
 <p align="center">⟡ ✦ ❖ ✦ ⟡</p>
 
