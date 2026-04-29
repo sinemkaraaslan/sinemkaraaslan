@@ -4,7 +4,15 @@
 
 CE student at Istanbul Arel University (GPA 3.79/4.00), spending this semester as Product Owner on a class project — a peer support app for students.
 
-I'm mostly into **AI** and **product** these days. The parts I enjoy most are the ones with users in them — figuring out what's worth shipping, what to track, and how to tell if it actually worked.
+I'm mostly into **AI** and **product** these days — especially building things people actually use. The parts I enjoy most are figuring out what's worth shipping, what to track, and how to tell if it actually worked.
+
+<p align="center">⟡ ✦ ❖ ✦ ⟡</p>
+
+### ❖ Currently figuring out
+
+- LLMs, RAG, and ML in general — currently more *breaking and understanding* than *shipping*
+- Flask, properly this time — writing backend for KampüsDestek and learning as I go
+- Being a Product Owner without slowing the team down
 
 <p align="center">⟡ ✦ ❖ ✦ ⟡</p>
 
@@ -55,7 +63,7 @@ I'm mostly into **AI** and **product** these days. The parts I enjoy most are th
 - **Music Genre Classifier** — CNN trained on mel-spectrograms to classify tracks into 10 genres. First time I played with transfer learning + data augmentation
 - **Glimpse** — Face recognition with dlib & ResNet
 - **NASA Space Dashboard** — React app pulling NASA APIs. Ended up doing way more frontend than I planned
-- **ARQ Simulator** — C++ implementation of ARQ protocols (Stop-and-Wait, Go-Back-N) for a networking course
+- **ARQ Simulator** — Stop-and-Wait vs Go-Back-N over an AWGN channel with CRC-32 error detection (C++)
 - **Spotify-DB** — Relational schema design inspired by Spotify
 
 <p align="center">⟡ ✦ ❖ ✦ ⟡</p>
