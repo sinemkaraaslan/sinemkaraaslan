@@ -2,7 +2,7 @@
 
 <img src="assets/stars.svg" width="100%" alt="a very sleepy starry sky" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=26&pause=900&color=FF9EC4&center=true&vCenter=true&width=560&lines=hi+hi!+%E2%9C%A7+i'm+sinem;CE+student+%40+Istanbul+Arel;part-time+engineer+%40+Kuika;react+on+top%2C+C%23+underneath;into+AI%2C+RAG+%26+product+things" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=26&pause=900&color=FF9EC4&center=true&vCenter=true&width=560&lines=sinem+karaaslan+%E2%9C%A7;CE+student+%40+Istanbul+Arel;part-time+engineer+%40+Kuika;react+on+top%2C+C%23+underneath;into+AI%2C+RAG+%26+product+things" alt="typing" />
 
 &nbsp;
 
@@ -71,29 +71,13 @@
 
 ---
 
-## ✧ stats & sparkles
+## ✿ a cat eats my commits
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&border_radius=16&title_color=FF9EC4&icon_color=C9B6FF&text_color=B9AEDC&bg_color=1A1033" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&border_radius=16&title_color=FF9EC4&text_color=B9AEDC&bg_color=1A1033" alt="top languages" />
+<img src="assets/commit-cat.svg" width="100%" alt="a pixel cat walking across a contribution grid and eating it" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&border_radius=16&background=1A1033&stroke=4A2A63&ring=FF9EC4&fire=C9B6FF&currStreakLabel=FF9EC4&sideLabels=B9AEDC&dates=7A6E9E&currStreakNum=FFF1DE&sideNums=FFF1DE" alt="streak" />
-
-</div>
-
----
-
-## ✿ a snake eats my commits
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</picture>
+<sub><i>most of my work lives in private repos, so the real graph keeps quiet about it.<br/>this one doesn't, and it has a cat. ♡</i></sub>
 
 </div>
 
