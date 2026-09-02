@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 140" width="220" height="140" role="img" aria-label="a pixel cat napping on a keyboard">
+  <defs>
+    <style>
+      .fur   { fill:#f6c391; }
+      .fur2  { fill:#e9a86a; }
+      .cream { fill:#fff1de; }
+      .ink   { fill:#3b2a3f; }
+      .pink  { fill:#ff9ec4; }
+      .key   { fill:#cfc4e6; }
+      .keyhi { fill:#e8e0f7; }
+      .bob   { animation: bob 3.4s ease-in-out infinite; }
+      .tail  { animation: wag 2.6s ease-in-out infinite; transform-origin: 156px 96px; }
+      .ear   { animation: twitch 5s ease-in-out infinite; transform-origin: 74px 62px; }
+      .eyes  { animation: blink 4.2s steps(1,end) infinite; transform-origin: center; }
+      .zzz1  { animation: rise 3.6s ease-out infinite; }
+      .zzz2  { animation: rise 3.6s ease-out infinite .9s; }
+      .zzz3  { animation: rise 3.6s ease-out infinite 1.8s; }
+      .heart { animation: float 4.5s ease-in-out infinite; }
+      @keyframes bob    { 0%,100%{transform:translateY(0)} 50%{transform:translateY(2.5px)} }
+      @keyframes wag    { 0%,100%{transform:rotate(0deg)} 30%{transform:rotate(-16deg)} 65%{transform:rotate(12deg)} }
+      @keyframes twitch { 0%,88%,100%{transform:rotate(0deg)} 92%{transform:rotate(-9deg)} 96%{transform:rotate(5deg)} }
+      @keyframes blink  { 0%,92%{opacity:1} 93%,97%{opacity:0} 98%,100%{opacity:1} }
+      @keyframes rise   { 0%{opacity:0;transform:translate(0,0) scale(.7)} 20%{opacity:1} 100%{opacity:0;transform:translate(14px,-26px) scale(1.1)} }
+      @keyframes float  { 0%,100%{transform:translateY(0);opacity:.9} 50%{transform:translateY(-6px);opacity:.5} }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="220" height="140" rx="18" fill="#FFF6FB"/>
+  <rect x="1" y="1" width="218" height="138" rx="17" fill="none" stroke="#FFD9EC" stroke-width="2"/>
+  <!-- keyboard -->
+  <rect x="18" y="104" width="184" height="24" rx="6" class="key"/>
+  <g class="keyhi">
+    <rect x="26" y="110" width="14" height="11" rx="2.5"/>
+    <rect x="44" y="110" width="14" height="11" rx="2.5"/>
+    <rect x="62" y="110" width="14" height="11" rx="2.5"/>
+    <rect x="80" y="110" width="14" height="11" rx="2.5"/>
+    <rect x="98" y="110" width="14" height="11" rx="2.5"/>
+    <rect x="116" y="110" width="14" height="11" rx="2.5"/>
+    <rect x="134" y="110" width="14" height="11" rx="2.5"/>
+    <rect x="152" y="110" width="14" height="11" rx="2.5"/>
+    <rect x="170" y="110" width="24" height="11" rx="2.5"/>
+  </g>
+
+  <g class="bob">
+    <!-- tail -->
+    <path class="tail" d="M154,98 q28,4 30,-14 q1,-10 -8,-12" fill="none" stroke="#e9a86a" stroke-width="9" stroke-linecap="round"/>
+    <!-- body -->
+    <ellipse class="fur" cx="112" cy="94" rx="52" ry="22"/>
+    <ellipse class="cream" cx="106" cy="102" rx="34" ry="11"/>
+    <!-- stripes -->
+    <path class="fur2" d="M120,74 q6,10 0,20 q-4,-10 0,-20z"/>
+    <path class="fur2" d="M136,77 q6,9 1,18 q-4,-9 -1,-18z"/>
+    <!-- paws -->
+    <ellipse class="cream" cx="76" cy="106" rx="12" ry="6"/>
+    <ellipse class="cream" cx="98" cy="107" rx="12" ry="6"/>
+    <!-- head -->
+    <g class="ear">
+      <path class="fur" d="M62,70 l4,-20 l17,11 z"/>
+      <path class="pink" d="M66,53 l6,5 l-8,3 z"/>
+    </g>
+    <path class="fur" d="M102,70 l-4,-20 l-17,11 z"/>
+    <path class="pink" d="M98,53 l-6,5 l8,3 z"/>
+    <ellipse class="fur" cx="82" cy="78" rx="27" ry="23"/>
+    <ellipse class="cream" cx="82" cy="86" rx="15" ry="10"/>
+    <!-- face -->
+    <g class="eyes">
+      <ellipse class="ink" cx="72" cy="76" rx="3.6" ry="4.6"/>
+      <ellipse class="ink" cx="92" cy="76" rx="3.6" ry="4.6"/>
+      <circle cx="73.4" cy="74.2" r="1.3" fill="#fff"/>
+      <circle cx="93.4" cy="74.2" r="1.3" fill="#fff"/>
+    </g>
+    <path class="pink" d="M82,84 l4,3 h-8 z"/>
+    <path d="M82,87 v3 M82,90 q-4,3 -7,0 M82,90 q4,3 7,0" stroke="#3b2a3f" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <!-- blush -->
+    <ellipse cx="62" cy="84" rx="5" ry="3" fill="#ff9ec4" opacity=".55"/>
+    <ellipse cx="102" cy="84" rx="5" ry="3" fill="#ff9ec4" opacity=".55"/>
+    <!-- whiskers -->
+    <g stroke="#3b2a3f" stroke-width="1.2" stroke-linecap="round" opacity=".75">
+      <path d="M56,80 h-13 M56,85 h-12 M108,80 h13 M108,85 h12"/>
+    </g>
+  </g>
+
+  <!-- sleepy z's -->
+  <g fill="#c9b6ff" font-family="Verdana,DejaVu Sans,sans-serif" font-weight="bold">
+    <text class="zzz1" x="118" y="52" font-size="11">z</text>
+    <text class="zzz2" x="128" y="42" font-size="13">z</text>
+    <text class="zzz3" x="140" y="32" font-size="15">Z</text>
+  </g>
+
+  <!-- little hearts -->
+  <path class="heart" d="M28,44 a5,5 0 0,1 9,-3 a5,5 0 0,1 9,3 q0,7 -9,13 q-9,-6 -9,-13z" fill="#ff9ec4" opacity=".8" transform="scale(.6) translate(20,30)"/>
+  <path class="heart" d="M186,58 a4,4 0 0,1 7,-2 a4,4 0 0,1 7,2 q0,5 -7,10 q-7,-5 -7,-10z" fill="#c9b6ff" opacity=".7"/>
+</svg>

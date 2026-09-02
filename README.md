@@ -1,79 +1,116 @@
-<h1 align="center">⟡ Sinem Karaaslan ⟡</h1>
+<div align="center">
 
-<p align="center">⋆ ˚ ⋅ ✦ ⋅ ˚ ⋆</p>
+<img src="assets/stars.svg" width="100%" alt="a very sleepy starry sky" />
 
-CE student at Istanbul Arel University (GPA 3.81/4.00), mostly into AI and product these days — especially building things people actually use.
-The parts I enjoy most are figuring out what's worth shipping, what to track, and how to tell if it actually worked.
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=26&pause=900&color=FF9EC4&center=true&vCenter=true&width=560&lines=hi+hi!+%E2%9C%A7+i'm+sinem;CE+student+%40+Istanbul+Arel;part-time+engineer+%40+Kuika;react+on+top%2C+C%23+underneath;into+AI%2C+RAG+%26+product+things" alt="typing" />
 
-<p align="center">⟡ ✦ ❖ ✦ ⟡</p>
+&nbsp;
 
-### ❖ Currently figuring out
+`✧ ･ﾟ: *✧ ･ﾟ:*　　*:･ﾟ✧*:･ﾟ✧`
 
-- .NET ecosystem properly — ASP.NET Core, EF Core, SQL Server, and how they fit together at scale
-- LLMs and RAG — still more *breaking and understanding* than *shipping*, but getting there
-- Being a Product Owner without slowing the team down
+</div>
 
-<p align="center">⟡ ✦ ❖ ✦ ⟡</p>
+---
 
-### ❖ Tech I work with
+## ✿ about me
 
-**Languages**
+```
+╭────────────────────────────────────────────╮
+│  name     ♡  sinem karaaslan               │
+│  school   ♡  computer engineering, Arel    │
+│  doing    ♡  part-time engineer @ Kuika    │
+│  stack    ♡  react · C# · python           │
+│  loves    ♡  LLMs, RAG, product thinking,  │
+│              shipping things people use    │
+│  fueled   ♡  by coffee & spite for bugs    │
+╰────────────────────────────────────────────╯
+```
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 🌸 i work on a **low-code / AI platform** — React on the frontend, C# on the backend
+- 🪄 currently figuring out: the .NET ecosystem properly, RAG beyond just calling an API, and being a PO without slowing the team down
+- 🫂 Product Owner on **KampüsDestek**, a peer support platform — 5-person scrum team, and some of the backend too
+- 💬 ask me about: what's worth shipping, what to track, and how to tell if it actually worked
 
-**Backend & Data**
+---
 
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/-EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+## ✦ my pet (she lives here now)
 
-**Frontend**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="assets/pet.svg" width="260" alt="a pixel cat sleeping on a keyboard" />
 
-**AI / ML**
+<sub><i>this is <b>Pixel</b> — she reviews all my PRs by sitting on them ♡</i></sub>
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-005571?style=for-the-badge&logo=langchain&logoColor=white)
-![LLMs](https://img.shields.io/badge/-LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![dlib](https://img.shields.io/badge/-dlib-008000?style=for-the-badge)
-![ResNet](https://img.shields.io/badge/-ResNet-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+</div>
 
-**Workflow**
+---
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+## ✿ things i use
 
-<p align="center">⟡ ✦ ❖ ✦ ⟡</p>
+<div align="center">
 
-### ❖ Some of my projects
+![C#](https://img.shields.io/badge/C%23-C9B6FF?style=for-the-badge&logo=dotnet&logoColor=4A2A63)
+![React](https://img.shields.io/badge/React-FFB3D1?style=for-the-badge&logo=react&logoColor=4A2A63)
+![Python](https://img.shields.io/badge/Python-B8E0FF?style=for-the-badge&logo=python&logoColor=4A2A63)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-FFD9EC?style=for-the-badge&logo=dotnet&logoColor=4A2A63)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D6F5C9?style=for-the-badge&logo=postgresql&logoColor=4A2A63)
+![Figma](https://img.shields.io/badge/Figma-FFE3B3?style=for-the-badge&logo=figma&logoColor=4A2A63)
+![Git](https://img.shields.io/badge/Git-FFC7B3?style=for-the-badge&logo=git&logoColor=4A2A63)
 
-- **FilmÇark** — Letterboxd-inspired film platform with a spinning wheel for when you can't decide what to watch. Built with ASP.NET Core 8 MVC, EF Core, and TMDB API.
-- **KampüsDestek** — Peer support platform for university students. PO on a 5-person Scrum team, and writing some of the backend too (Flask, PostgreSQL)
-- **PDF Chatbot** — Small RAG project; built it to actually understand embeddings instead of just calling OpenAI's API
-- **Music Genre Classifier** — CNN trained on mel-spectrograms to classify tracks into 10 genres. First time I played with transfer learning + data augmentation
-- **Glimpse** — Face recognition with dlib & ResNet
-- **NASA Space Dashboard** — Dashboard pulling data from NASA APIs. When the Mars Rover endpoint broke, I redesigned that section as a static info hub rather than ship something broken.
-- **ARQ Simulator** — Stop-and-Wait vs Go-Back-N over an AWGN channel with CRC-32 error detection (C++)
-- **Spotify-DB** — Relational schema design inspired by Spotify
+</div>
 
-<p align="center">⟡ ✦ ❖ ✦ ⟡</p>
+---
 
-### ❖ Let's connect
+## ✧ things i built
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinem-karaaslan-b878162b6)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinemkrslnn@gmail.com)
+- 🎡 **FilmÇark** — Letterboxd-ish film platform with a spinning wheel for when you can't decide. ASP.NET Core 8 MVC · EF Core · TMDB API
+- 🫂 **KampüsDestek** — peer support platform for students. PO + some backend (Flask, PostgreSQL)
+- 📄 **PDF Chatbot** — small RAG project, built to actually understand embeddings
+- 🎧 **Music Genre Classifier** — CNN on mel-spectrograms, 10 genres, transfer learning + augmentation
+- 🚀 **NASA Space Dashboard** — when the Mars Rover endpoint broke, I rebuilt that section as a static info hub instead of shipping something broken
 
-<p align="center">⋆ ˚ ⋅ ✦ ⋅ ˚ ⋆</p>
+---
+
+## ✧ stats & sparkles
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&border_radius=16&title_color=FF9EC4&icon_color=C9B6FF&text_color=B9AEDC&bg_color=1A1033" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&border_radius=16&title_color=FF9EC4&text_color=B9AEDC&bg_color=1A1033" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&border_radius=16&background=1A1033&stroke=4A2A63&ring=FF9EC4&fire=C9B6FF&currStreakLabel=FF9EC4&sideLabels=B9AEDC&dates=7A6E9E&currStreakNum=FFF1DE&sideNums=FFF1DE" alt="streak" />
+
+</div>
+
+---
+
+## ✿ a snake eats my commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✧ ･ﾟ thanks for stopping by ･ﾟ ✧
+
+<sub>if you scrolled this far, Pixel says you have to pet her</sub>
+
+<br/>
+
+`(=^･ω･^=)`  `♡`  `(=^･ｪ･^=)`  `♡`  `ฅ^•ﻌ•^ฅ`
+
+<br/>
+
+<img src="assets/stars.svg" width="100%" alt="goodnight" />
+
+</div>
