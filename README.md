@@ -71,13 +71,27 @@
 
 ---
 
+## ✧ stats & sparkles
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/FF9EC4/sinemkaraaslan" width="100%" alt="my contribution graph" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sinemkaraaslan&hide_border=true&border_radius=16&background=1A1033&stroke=4A2A63&ring=FF9EC4&fire=C9B6FF&currStreakLabel=FF9EC4&sideLabels=B9AEDC&dates=7A6E9E&currStreakNum=FFF1DE&sideNums=FFF1DE" alt="streak" />
+
+</div>
+
+---
+
 ## ✿ a cat eats my commits
 
 <div align="center">
 
 <img src="assets/commit-cat.svg" width="100%" alt="a pixel cat walking across a contribution grid and eating it" />
 
-<sub><i>most of my work lives in private repos, so the real graph keeps quiet about it.<br/>this one doesn't, and it has a cat. ♡</i></sub>
+<sub><i>the one above is real. this one is just a cat eating my week. ♡</i></sub>
 
 </div>
 
